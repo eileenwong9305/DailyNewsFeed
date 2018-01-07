@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Daily News Feed</string>
+    <string name="no_news_found">No news found</string>
+    <string name="no_internet_connection">No internet connection. Please turn on your mobile data or connect to wifi.</string>
+    <string name="settings_menu_item">Setting</string>
+    <string name="settings_title">News Setting</string>
+
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_newest_value</string>
+
+    <string name="settings_order_by_newest_label">Newest First</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+    <string name="settings_order_by_oldest_label">Oldest First</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+    <string name="settings_order_by_relevant_label">Most Relevant</string>
+    <string name="settings_order_by_relevant_value" translatable="false">relevance</string>
+
+    <string name="settings_production_by_label">Production Office</string>
+    <string name="settings_production_by_key" translatable="false">production_office</string>
+    <string name="settings_production_by_default" translatable="false">@string/settings_production_uk_value</string>
+
+    <string name="settings_production_uk_label">UK</string>
+    <string name="settings_production_uk_value" translatable="false">uk</string>
+
+    <string name="settings_production_us_label">US</string>
+    <string name="settings_production_us_value" translatable="false">us</string>
+
+    <string name="settings_production_aus_label">Australia</string>
+    <string name="settings_production_aus_value" translatable="false">aus</string>
+
+    <string name="settings_search_term_label">Search term</string>
+    <string name="settings_search_term_key">search_term</string>
+
+    <string name="section_world_key">world</string>
+    <string name="section_politics_key">politics</string>
+    <string name="section_business_key">business</string>
+    <string name="section_technology_key">technology</string>
+    <string name="section_science_key">science</string>
+    <string name="section_sport_key">sport</string>
+    <string name="section_culture_key">culture</string>
+    <string name="section_lifeandstyle_key">lifeandstyle</string>
+    <string name="section_lifeandstyle_title">Lifestyle</string>
+    <string name="section_fashion_key">fashion</string>
+    <string name="section_travel_key">travel</string>
+
+</resources>
